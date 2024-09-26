@@ -16,13 +16,6 @@
                 "url": "https://x.com/bobsbookofbulls?s=21&t=3dNjBeZvswPFjuPVQ4RKZQ",
                 "icon": "twitter",
                 "elementId": ""
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
             }
         ],
         "styles": {
