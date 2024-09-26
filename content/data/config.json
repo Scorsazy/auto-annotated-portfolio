@@ -10,25 +10,36 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "TELEGRAM",
                 "altText": "",
                 "url": "https://t.me/Topchefholders",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            }
-        ],
-        "socialLinks": [
+            },
             {
-                "type": "Social",
-                "label": "Twitter",
+                "type": "Link",
+                "label": "CHEF.FUN",
+                "altText": "",
+                "url": "CHEF.FUN",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "X",
                 "altText": "",
                 "url": "https://x.com/bobsbookofbulls?s=21&t=3dNjBeZvswPFjuPVQ4RKZQ",
-                "icon": "twitter",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
                 "elementId": ""
             }
         ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
