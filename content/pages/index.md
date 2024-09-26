@@ -86,7 +86,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Upcoming Additions to Ecosystem
+    subtitle: Coming soon to the $TOPCHEF Ecosystem...
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
