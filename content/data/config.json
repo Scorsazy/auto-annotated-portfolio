@@ -6,7 +6,7 @@
         "headerVariant": "variant-a",
         "isSticky": false,
         "title": "$TOPCHEF Ecosystem",
-        "isTitleVisible": false,
+        "isTitleVisible": true,
         "primaryLinks": [],
         "socialLinks": [
             {
