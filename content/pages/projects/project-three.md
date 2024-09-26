@@ -11,7 +11,7 @@ description: >-
   will all benefit Chef.fun and $CHEF. That will always be the goal!
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Designer (7).png
   altText: Project image
 ---
 
