@@ -1,14 +1,16 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: $BOBS
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: ''
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  $BOBS book of recipes is a 1% Buy Sell tax project that will benefit the
+  $TOPCHEF ecosystem buy using profits to buy back and burn $TOPCHEF, Making it
+  into a deflationary asset.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Designer (5).png
   altText: Project thumbnail image
 media:
   type: ImageBlock
