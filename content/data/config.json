@@ -6,8 +6,19 @@
         "headerVariant": "variant-a",
         "isSticky": false,
         "title": "$TOPCHEF Ecosystem",
-        "isTitleVisible": false,
-        "primaryLinks": [],
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "https://t.me/Topchefholders",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
         "socialLinks": [
             {
                 "type": "Social",
