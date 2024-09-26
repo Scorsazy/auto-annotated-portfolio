@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: $TOPCHEF
+    title: $TOPCHEF Ecosystem
     subtitle: >-
       5% Buy 5% Sell. 50% Tax buys $CHEF 50% Tax buys $ETH. Stake $TOPCHEF get
       $CHEF. Simple.
