@@ -81,7 +81,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projects
+    subtitle: Upcoming Additions to Ecosystem
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
