@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Many more to come...
 colors: colors-a
-date: '2022-09-27'
+date: '2024-09-27'
 client: >-
   End goal is to promote chef.fun and build with them till they flip the 
   pumpfun monopoly!
