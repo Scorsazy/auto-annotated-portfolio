@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: $TOPCHEF
-    subtitle: 50% Tax buys $CHEF
+    subtitle: >-
+      5% Buy 5% Sell. 50% Tax buys $CHEF 50% Tax buys $ETH. Stake $TOPCHEF get
+      $CHEF. Simple.
     styles:
       self:
         height: auto
